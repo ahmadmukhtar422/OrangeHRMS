@@ -1,0 +1,7 @@
+{
+  "username": "admin",
+  "password": "admin123",
+  "DOB": "1975-04-05",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "Timeout":"5000"
+}
